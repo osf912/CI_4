@@ -9,5 +9,8 @@ assignees: ''
 
 As a **role**, I can **capability**, so I can **
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Acceptance Criteria:
+
+* Acceptance Criteria 1
+* Acceptance Criteria 2
+* Acceptance Criteria 3
